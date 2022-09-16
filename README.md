@@ -1,6 +1,6 @@
 ## Hacker Rank's 30 Days of Code Challenge
 
-I will be completing this challenge in Python.
+Challenges completed in Python.
 
 ### Resources
 
